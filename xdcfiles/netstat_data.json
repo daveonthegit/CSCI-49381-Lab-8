@@ -1,0 +1,5649 @@
+[
+  {
+    "timestamp": "2025-04-21 01:55:33",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:34",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:35",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:36",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:37",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:38",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:39",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:40",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:41",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:42",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:43",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:44",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:45",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:46",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:47",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:48",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:49",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:50",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:51",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:52",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:53",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:54",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:55",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:56",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:57",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:58",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:55:59",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:00",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:01",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 3
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 2
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.3": 1
+    },
+    "connections": 9,
+    "http_connections": 1,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.3"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:56:02",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:03",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:04",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:05",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:06",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:07",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:08",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:09",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:10",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:11",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:12",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:13",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:14",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:15",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:16",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:17",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:18",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:19",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:20",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:21",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:22",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:23",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:24",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:25",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:26",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:27",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:28",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:29",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:30",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:31",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:32",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:33",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:34",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:35",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:36",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:37",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:38",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:39",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:40",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:41",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:42",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:43",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:44",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:45",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:46",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:47",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:48",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:49",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:50",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:51",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:52",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:53",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:54",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:55",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:56",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:57",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:58",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:56:59",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:57:00",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 589
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 588
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 587
+    },
+    "connections": 595,
+    "http_connections": 587,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:01",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 614
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 613
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 612
+    },
+    "connections": 620,
+    "http_connections": 612,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:02",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:03",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:04",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:05",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:06",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:07",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:08",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:09",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:10",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:11",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:12",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:13",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:14",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:15",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:16",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:17",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:18",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:19",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:20",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 589,
+      "FIN_WAIT2": 75
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 587,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:21",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:22",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:23",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:24",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:25",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:26",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:28",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:29",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:30",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:31",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:32",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:33",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:34",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:35",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:36",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:37",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:38",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:39",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:40",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:41",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:42",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:43",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:44",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:45",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:46",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:47",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:48",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:49",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:50",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:51",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:52",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:53",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:54",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:55",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:56",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:57",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:58",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:57:59",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:00",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:01",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:02",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 564,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 562,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:03",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:04",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 50
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 713
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 712
+    },
+    "connections": 720,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:05",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 50
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 713
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 712
+    },
+    "connections": 720,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:06",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 50
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 713
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 712
+    },
+    "connections": 720,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:07",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 50
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 713
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 712
+    },
+    "connections": 720,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:08",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:09",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:10",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:11",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:12",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:13",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:14",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:15",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:16",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:17",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:18",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:19",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:20",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:21",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:22",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 564,
+      "FIN_WAIT2": 75,
+      "FIN_WAIT1": 25
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 562,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:23",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:24",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 614,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 612,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:25",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 614,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 612,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:26",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:27",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:28",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:29",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:31",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:32",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:33",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:34",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:35",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:36",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:37",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:38",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:39",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:40",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:41",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:42",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:43",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:44",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 564,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 562,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:45",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:46",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:47",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:48",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:49",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:50",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:51",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:52",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:53",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:54",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:55",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:56",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:57",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:58",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:58:59",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:00",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:01",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:02",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:03",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:04",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 564,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 562,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:05",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:06",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:07",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:08",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:09",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 813
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 812
+    },
+    "connections": 820,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:10",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:11",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:12",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:13",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:14",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:15",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:16",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:17",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:18",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:19",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:20",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:21",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:22",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:23",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:24",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 663
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 662
+    },
+    "connections": 670,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:25",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 664,
+      "FIN_WAIT2": 100
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 662,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:26",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 614,
+      "FIN_WAIT2": 150
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 763
+    },
+    "ips": {
+      "192.168.254.2": 2,
+      "10.1.1.4": 762
+    },
+    "connections": 770,
+    "http_connections": 612,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 1,
+    "web_sources": [
+      "10.1.1.4"
+    ]
+  },
+  {
+    "timestamp": "2025-04-21 01:59:27",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:59:28",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  },
+  {
+    "timestamp": "2025-04-21 01:59:29",
+    "states": {
+      "LISTEN": 6,
+      "ESTABLISHED": 2
+    },
+    "ports": {
+      "5355": 2,
+      "53": 1,
+      "22": 4,
+      "80": 1
+    },
+    "ips": {
+      "192.168.254.2": 2
+    },
+    "connections": 8,
+    "http_connections": 0,
+    "ssh_connections": 2,
+    "syn_recv_connections": 0,
+    "unique_web_sources": 0,
+    "web_sources": []
+  }
+]
